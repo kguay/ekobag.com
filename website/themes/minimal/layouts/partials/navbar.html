@@ -9,11 +9,15 @@
 		</center>
 		<div class="menu" style="border-top: 2px solid green;border-bottom: 2px solid green;">
 			<center>
-        <!-- <a href="/hardwood/">HARDWOOD</a>&nbsp; -->
-        <!-- <a href="/softwood/">SOFTWOOD</a>&nbsp; -->
-        <!-- <a href="/slabs/">SLABS</a>&nbsp; -->
-        <!-- <a href="/speciality/">SPECIALITY</a>&nbsp; -->
-				<a href="/contact/">CONTACT</a>&nbsp;
+	            {{ $currentPage := . }}
+	            {{ range .Site.Menus.main }}
+	            <a href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>&nbsp;
+	            {{ end }}
+        		<!-- <a href="/hardwood/">HARDWOOD</a>&nbsp;
+        		<a href="/softwood/">SOFTWOOD</a>&nbsp;
+        		<a href="/slabs/">SLABS</a>&nbsp;
+        		<a href="/speciality/">SPECIALITY</a>&nbsp;
+				<a href="/contact/">CONTACT</a>&nbsp; -->
 			</center>
 		</div>
 	</div>

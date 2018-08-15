@@ -4,6 +4,33 @@ title = "Day's Hardwood"
 theme = "minimal"
 disqusShortname = "dayshardwood"
 
+[menu]
+  [[menu.main]]
+    identifier = "hardwood"
+    name = "HARDWOOD"
+    url = "/hardwood/"
+    weight = -140
+
+  [[menu.main]]
+    name = "SOFTWOOD"
+    url = "/softwood/"
+    weight = -130
+
+  [[menu.main]]
+    name = "SLABS"
+    url = "/slabs/"
+    weight = -120
+
+  [[menu.main]]
+    name = "SPECIALTY"
+    url = "/specialty/"
+    weight = -110
+
+  [[menu.main]]
+    name = "CONTACT"
+    url = "/contact/"
+    weight = -100
+
 [params]
   subtitle = "Day's Hardwood"
   author = "Kevin Guay"
