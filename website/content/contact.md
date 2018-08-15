@@ -10,8 +10,7 @@ Monday to Friday 8:30 AM to 5:00 PM
 
 # Contact
 
-McKay Biggar   
-(207) 869-5055   
+ (207) 869-5055   
 <a href="mailto:hello@dayshardwood.com" target="_blank">hello@dayshardwood.com</a>
 
 # Directions
