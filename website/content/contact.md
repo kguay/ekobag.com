@@ -1,3 +1,9 @@
++++
+[menu.main]
+name = "CONTACT"
+weight = 5
+
++++
 # Hours
 Monday to Friday 8:30 AM to 5:30 PM \
 Aytime by appointment.
