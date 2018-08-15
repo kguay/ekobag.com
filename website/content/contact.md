@@ -4,13 +4,15 @@ name = "CONTACT"
 weight = 5
 
 +++
+<img src="/images/wood/wood4.png" style="margin-top:20px;">
+
 # Hours
 
-Monday to Friday 8:30 AM to 5:00 PM 
+Monday to Friday 8:30 AM to 5:00 PM
 
 # Contact
 
- (207) 869-5055   
+(207) 869-5055  
 <a href="mailto:hello@dayshardwood.com" target="_blank">hello@dayshardwood.com</a>
 
 # Directions
