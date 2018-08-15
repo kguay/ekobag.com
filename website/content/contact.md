@@ -1,7 +1,7 @@
 +++
 [menu.main]
 name = "CONTACT"
-weight = 5
+weight = 1
 
 +++
 <img src="/images/wood/wood4.png" style="margin-top:20px;">

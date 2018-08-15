@@ -1,7 +1,4 @@
 +++
-[menu.main]
-name = "SPECIALTY"
-weight = 4
 
 +++
 # 

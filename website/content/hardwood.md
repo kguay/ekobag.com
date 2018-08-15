@@ -1,8 +1,4 @@
 +++
-[menu.main]
-identifier = "hardwood"
-name = "HARDWOOD"
-weight = 1
 
 +++
 # 

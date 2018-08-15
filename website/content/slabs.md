@@ -1,7 +1,4 @@
 +++
-[menu.main]
-name = "SLABS"
-weight = 3
 
 +++
 # 

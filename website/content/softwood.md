@@ -1,7 +1,4 @@
 +++
-[menu.main]
-name = "SOFTWOOD"
-weight = 2
 
 +++
 # 
