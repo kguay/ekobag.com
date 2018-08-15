@@ -1,0 +1,9 @@
+baseURL = "https://www.minimalistprogrammer.io/"
+languageCode = "en-us"
+title = "Day's Hardwood"
+theme = "minimal"
+disqusShortname = "dayshardwood"
+
+[params]
+  subtitle = "Day's Hardwood"
+  author = "Kevin Guay"
