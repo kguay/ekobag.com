@@ -1,13 +1,14 @@
 +++
-title = "Setting Up Ansible with Ansible"
+category = "programming"
 date = "2017-10-31"
 description = "How to use Ansible for initial Ansible configuration"
-tags = [ "Ansible" ]
-type = "programming"
+draft = true
 layout = "blog"
-category = "programming"
-+++
+tags = ["Ansible"]
+title = "Setting Up Ansible with Ansible"
+type = "programming"
 
++++
 ## Background
 
 I am responsible for a few dozen linux servers at work, and although there was an effort to install Salt a few years ago, they are all managed individually and manually. I spend more time than I should ssh'ing into boxes to add users. install applications, or restart services. I looked into Puppet a few months ago, but it seemed to complicated and clunky for my environment. Specialty, I really didn't want to install and troubleshoot the client on dozens of serveres. A few people had recommended Ansible to me, and it looked like a gerat option.
