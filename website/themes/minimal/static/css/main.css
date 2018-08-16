@@ -11,6 +11,23 @@ body {
   min-height: 61vh; 
 }
 
+/*.container {
+  margin:-10px;
+}*/
+
+.box {
+  border:2px solid #999; 
+  padding:10px; 
+  margin:10px; 
+  margin-top:50px; 
+  width:80%;
+  text-align:left;
+}
+
+.left {
+  text-align:left;
+}
+
 /** Headers **/
 h1, h2, h3, h4, h5, h6 {
   font-family: "Georgia" !important;
