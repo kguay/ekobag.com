@@ -1,8 +1,8 @@
-baseURL = "https://www.minimalistprogrammer.io/"
-disqusShortname = "dayshardwood"
+baseURL = "https://www.okobag.com/"
+disqusShortname = "okobag"
 languageCode = "en-us"
 theme = "minimal"
-title = "Day's Hardwood"
+title = "Öko Bag"
 [params]
-author = "Kevin Guay"
-subtitle = "Day's Hardwood"
+author = "Öko Bag"
+subtitle = ""

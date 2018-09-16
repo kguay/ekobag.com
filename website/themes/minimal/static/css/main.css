@@ -1,14 +1,16 @@
 body {
   font-family: Georgia, Times, serif !important;
+  font-family: 'Open Sans', sans-serif;
   font-size: 16px;
   font-weight: 300;
   margin-bottom: 150px;
-  letter-spacing: 1px;
-  color: #333; 
+  letter-spacing: 1.1px;
+  background-color: #7000BA; 
+  color: white;
 }
 
 .main {
-  min-height: 61vh; 
+/*  min-height: 61vh;*/
 }
 
 /*.container {
@@ -30,16 +32,17 @@ body {
 
 /** Headers **/
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Georgia" !important;
+  font-family: 'Open Sans', sans-serif;
   font-weight: 400;
   margin-top: 40px;
   margin-bottom: 20px; 
 }
 
 h1 {
-  font-size: 1.5em;
+  font-size: 2em;
   font-weight: 400;
   margin-top: 0px; 
+  text-transform: uppercase;
 }
 
 h2 {
@@ -66,8 +69,9 @@ h5 {
 
 /** Paragraph **/
 p {
-  color: #444;
+  font-family: 'Open Sans', sans-serif;
   font-weight: 300;
+  font-size: 1.2em;
   line-height: 1.5; 
 }
 
@@ -133,15 +137,15 @@ code {
 
 .menu {
   font-family: 'Open Sans', sans-serif;
-  font-weight: 600;
+  font-weight: 300;
   margin-top: 8px;
-  font-size: 1.0em;
+  font-size: 1.3em;
 /* mouse over link */ }
 .menu a:link,
 .menu a:visited,
 .menu a:hover,
 .menu a:active {
-  color: #00703C;
+  color: white;
   text-decoration: none; 
 }
 @media (min-width: 768px) {
@@ -153,11 +157,11 @@ code {
   } 
 }
 .menu a:hover {
-  color: #00703C !important;
+  color: white !important;
   text-decoration: underline; 
 }
 
-.bubble.#00703C {
+.bubble {
   background-color: white;
   border-radius: 5px;
   border: #537FBC solid 1px;
@@ -453,9 +457,9 @@ ul.hor-list li:last-child:after {
 
 /** Footer **/
 footer {
-  background-color: white;
-  color: #00703C;
-  min-height: 200px;
+  background-color: #0091BA;
+  color: white;
+/*  min-height: 200px;*/
   bottom: 0;
   width: 100%;
   float: left;
